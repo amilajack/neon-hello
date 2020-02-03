@@ -9,6 +9,6 @@ a "hello world" demo of Neon
 ```bash
 git clone https://github.com/amilajack/neon-hello
 cd neon-hello
-yarn
-yarn test
+npm install # or yarn
+npm test # or yarn test
 ```
