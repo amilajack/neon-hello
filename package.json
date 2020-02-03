@@ -1,16 +1,16 @@
 {
-  "name": "neon-hello",
+  "name": "@amilajack/neon-hello",
   "version": "0.1.1",
   "description": "a 'hello world' demo of Neon",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dherman/neon-hello"
+    "url": "https://github.com/amilajack/neon-hello"
   },
-  "author": "Dave Herman <dherman@mozilla.com>",
+  "author": "Amila Welihinda <amilajack@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "neon-cli": "^0.1.15"
+    "neon-cli": "^0.3.3"
   },
   "scripts": {
     "install": "neon build"

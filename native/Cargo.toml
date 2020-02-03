@@ -1,16 +1,15 @@
 [package]
-name = "neon-hello"
+name = "hello-world"
 version = "0.1.0"
-authors = ["Dave Herman <dherman@mozilla.com>"]
-license = "MIT"
 build = "build.rs"
+edition = "2018"
 
 [lib]
-name = "neon_hello"
-crate-type = ["dylib"]
+name = "hello_world"
+crate-type = ["cdylib"]
 
 [build-dependencies]
-neon-build = "0.1.15"
+neon-build = "0.3.3"
 
 [dependencies]
-neon = "0.1.15"
+neon = "0.3.3"
