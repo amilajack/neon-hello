@@ -1,6 +1,6 @@
 {
   "name": "@amilajack/neon-hello",
-  "version": "0.1.2-0",
+  "version": "0.2.0",
   "description": "a 'hello world' demo of Neon",
   "main": "lib/index.js",
   "repository": {
